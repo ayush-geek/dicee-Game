@@ -1,1 +1,1 @@
-# dicee-Game
+Random Dice Generator game
